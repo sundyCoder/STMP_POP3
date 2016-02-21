@@ -1,0 +1,108 @@
+[11:58:24 ../smtp_ser.c:513]:JChen's smtp server is ready!
+[11:58:24 ../smtp_ser.c:464]:a client connected:ip=192.168.1.114,port=16110,current client num=1
+[11:58:24 ../smtp_ser.c:475]:key=helo,val=
+[11:58:24 ../smtp_ser.c:475]:key=mail,val=from:<root@ch.com>
+[11:58:24 ../smtp_ser.c:475]:key=rcpt,val=to:<chen@ch.com>
+[11:58:24 ../smtp_ser.c:173]:open smtp.db3 successful!
+[11:58:24 ../smtp_ser.c:189]:name = ch.com,ipstr = 192.168.1.114
+[11:58:24 ../smtp_ser.c:189]:name = qq.com,ipstr = 123.125.71.9
+[11:58:24 ../smtp_ser.c:475]:key=data,val=
+[11:58:24 ../smtp_ser.c:378]:name=chen@ch.com,domain=ch.com,ip=
+[11:58:24 ../smtp_ser.c:40]:catch 17
+[11:58:24 ../smtp_ser.c:464]:a client connected:ip=192.168.1.114,port=9131,current client num=1
+[11:58:24 ../smtp_ser.c:464]:a client connected:ip=192.168.1.114,port=9387,current client num=2
+[11:58:24 ../smtp_ser.c:475]:key=quit,val=
+[11:58:24 ../smtp_ser.c:475]:key=quit,val=
+[11:58:24 ../smtp_ser.c:475]:key=quit,val=
+[12:08:51 ../smtp_ser.c:515]:JChen's smtp server is ready!
+[12:08:51 ../smtp_ser.c:466]:a client connected:ip=192.168.1.114,port=61399,current client num=1
+[12:08:51 ../smtp_ser.c:477]:key=helo,val=
+[12:08:51 ../smtp_ser.c:477]:key=quit,val=
+[12:21:58 ../smtp_ser.c:517]:JChen's smtp server is ready!
+[12:21:58 ../smtp_ser.c:468]:a client connected:ip=192.168.1.114,port=41409,current client num=1
+[12:21:58 ../smtp_ser.c:479]:key=hel0,val=
+[12:21:58 ../smtp_ser.c:479]:key=helo,val=
+[12:21:58 ../smtp_ser.c:479]:key=mail,val=from:<root@ch.com>
+[12:21:58 ../smtp_ser.c:468]:a client connected:ip=192.168.1.114,port=41665,current client num=2
+[12:21:58 ../smtp_ser.c:479]:key=helo,val=
+[12:21:58 ../smtp_ser.c:479]:key=quit,val=
+[12:21:58 ../smtp_ser.c:468]:a client connected:ip=192.168.1.114,port=41921,current client num=3
+[12:21:58 ../smtp_ser.c:479]:key=quit,val=
+[12:27:13 ../smtp_ser.c:517]:JChen's smtp server is ready!
+[12:27:13 ../smtp_ser.c:468]:a client connected:ip=192.168.1.114,port=20192,current client num=1
+[12:27:13 ../smtp_ser.c:479]:key=helo,val=
+[12:27:13 ../smtp_ser.c:468]:a client connected:ip=192.168.1.114,port=20448,current client num=2
+[12:27:13 ../smtp_ser.c:479]:key=helo,val=
+[12:27:13 ../smtp_ser.c:479]:key=quit,val=
+[12:27:13 ../smtp_ser.c:451]:a client disconnected!current client num=1
+[12:27:13 ../smtp_ser.c:468]:a client connected:ip=192.168.1.114,port=20704,current client num=0
+[12:27:13 ../smtp_ser.c:479]:key=quit,val=
+[12:27:13 ../smtp_ser.c:451]:a client disconnected!current client num=-1
+[12:30:30 ../smtp_ser.c:517]:JChen's smtp server is ready!
+[12:30:30 ../smtp_ser.c:468]:a client connected:ip=192.168.1.114,port=38564,current client num=1
+[12:30:30 ../smtp_ser.c:479]:key=hel0,val=
+[12:30:30 ../smtp_ser.c:479]:key=hel0,val=
+[12:30:30 ../smtp_ser.c:479]:key=helo,val=
+[12:30:30 ../smtp_ser.c:468]:a client connected:ip=192.168.1.114,port=38820,current client num=2
+[12:30:30 ../smtp_ser.c:479]:key=helo,val=
+[12:30:30 ../smtp_ser.c:479]:key=quit,val=
+[12:30:30 ../smtp_ser.c:451]:a client disconnected!current client num=1
+[12:30:30 ../smtp_ser.c:468]:a client connected:ip=192.168.1.114,port=39076,current client num=2
+[12:30:30 ../smtp_ser.c:479]:key=quit,val=
+[12:30:30 ../smtp_ser.c:451]:a client disconnected!current client num=1
+[12:30:30 ../smtp_ser.c:479]:key=quit,val=
+[12:30:30 ../smtp_ser.c:451]:a client disconnected!current client num=0
+[12:30:30 ../smtp_ser.c:468]:a client connected:ip=192.168.1.114,port=39332,current client num=1
+[12:30:30 ../smtp_ser.c:479]:key=quit,val=
+[12:30:30 ../smtp_ser.c:451]:a client disconnected!current client num=0
+[12:35:12 ../smtp_ser.c:517]:JChen's smtp server is ready!
+[12:35:28 ../smtp_ser.c:517]:JChen's smtp server is ready!
+[12:35:28 ../smtp_ser.c:468]:a client connected:ip=192.168.1.114,port=33159,current client num=1
+[12:35:28 ../smtp_ser.c:479]:key=quit,val=
+[12:35:28 ../smtp_ser.c:451]:a client disconnected!current client num=0
+[12:35:28 ../smtp_ser.c:517]:JChen's smtp server is ready!
+[12:35:28 ../smtp_ser.c:468]:a client connected:ip=192.168.1.114,port=33415,current client num=1
+[12:35:28 ../smtp_ser.c:479]:key=quit,val=
+[12:35:28 ../smtp_ser.c:451]:a client disconnected!current client num=0
+[12:35:28 ../smtp_ser.c:517]:JChen's smtp server is ready!
+[12:35:28 ../smtp_ser.c:468]:a client connected:ip=192.168.1.114,port=7307,current client num=1
+[12:35:28 ../smtp_ser.c:479]:key=quit,val=
+[12:35:28 ../smtp_ser.c:451]:a client disconnected!current client num=0
+[12:43:16 ../smtp_ser.c:518]:JChen's smtp server is ready!
+[12:43:16 ../smtp_ser.c:469]:a client connected:ip=192.168.1.114,port=7563,current client num=1
+[12:43:16 ../smtp_ser.c:480]:key=quit,val=
+[12:43:16 ../smtp_ser.c:452]:a client disconnected!current client num=0
+[12:43:16 ../smtp_ser.c:469]:a client connected:ip=192.168.1.114,port=27863,current client num=1
+[12:43:16 ../smtp_ser.c:480]:key=quit,val=
+[12:43:16 ../smtp_ser.c:452]:a client disconnected!current client num=0
+[12:45:55 ../smtp_ser.c:518]:JChen's smtp server is ready!
+[12:45:55 ../smtp_ser.c:469]:a client connected:ip=192.168.1.114,port=28119,current client num=1
+[12:45:55 ../smtp_ser.c:480]:key=quit,val=
+[12:45:55 ../smtp_ser.c:452]:a client disconnected!current client num=0
+[12:50:57 ../smtp_ser.c:518]:JChen's smtp server is ready!
+[12:50:57 ../smtp_ser.c:469]:a client connected:ip=192.168.1.114,port=16864,current client num=1
+[12:50:57 ../smtp_ser.c:480]:key=quit,val=
+[12:50:57 ../smtp_ser.c:451]:a client disconnected!current client num=0
+[12:59:32 ../smtp_ser.c:520]:JChen's smtp server is ready!
+[12:59:32 ../smtp_ser.c:470]:a client connected:ip=192.168.1.114,port=48526,current client num=1
+[12:59:32 ../smtp_ser.c:481]:key=helo,val=
+[12:59:32 ../smtp_ser.c:481]:key=ehlo,val=
+[12:59:32 ../smtp_ser.c:481]:key=mail,val=from:<root@ch.com>
+[12:59:32 ../smtp_ser.c:481]:key=rcpt,val=to:<chen2ch.com>
+[12:59:32 ../smtp_ser.c:37]:catch 17
+[12:59:32 ../smtp_ser.c:470]:a client connected:ip=192.168.1.114,port=48782,current client num=2
+[12:59:32 ../smtp_ser.c:481]:key=quit,val=
+[12:59:32 ../smtp_ser.c:451]:a client disconnected!current client num=1
+[13:09:49 ../smtp_ser.c:521]:JChen's smtp server is ready!
+[13:09:49 ../smtp_ser.c:469]:a client connected:ip=192.168.1.114,port=6289,current client num=1
+[13:09:49 ../smtp_ser.c:480]:key=quit,val=
+[13:09:49 ../smtp_ser.c:451]:a client disconnected!current client num=0
+[13:09:49 ../smtp_ser.c:37]:catch 17
+[13:09:49 ../smtp_ser.c:469]:a client connected:ip=192.168.1.114,port=6545,current client num=1
+[13:09:49 ../smtp_ser.c:469]:a client connected:ip=192.168.1.114,port=6801,current client num=2
+[13:09:49 ../smtp_ser.c:480]:key=quit,val=
+[13:09:49 ../smtp_ser.c:451]:a client disconnected!current client num=1
+[13:09:49 ../smtp_ser.c:37]:catch 17
+[13:09:49 ../smtp_ser.c:480]:key=quit,val=
+[13:09:49 ../smtp_ser.c:451]:a client disconnected!current client num=0
+[13:09:49 ../smtp_ser.c:37]:catch 17
